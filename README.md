@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img src=pic.gif"/>
+  <img src="pic.gif"/>
 
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Albuquerque29&show_icons=true&count_private=true&hide_border=true&icon_color=1E90FF&bg_color=000000&text_color=00BFFF&title_color=00BFFF" alt="Albuquerque29 github stats" /> 
